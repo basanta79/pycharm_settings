@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5 (shift-ux-backend)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/software/shift-ux-backend/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/ledgecore-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_services-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_accounts-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_api_gateway-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_directory-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_link-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_notifier-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_resources-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_uservault-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_workflow-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_background-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_card-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_stargate-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/pl_oauth-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/api_tester-1.0-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/botocore-1.12.199-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages/boto3-1.9.199-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.5.3/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/software/shift-ux-backend/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.2/python_stubs/564861189" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
